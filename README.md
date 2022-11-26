@@ -2,4 +2,4 @@
 PokemonGame(Terminal)
 
 
-## Em desenvolvimento. 
+## Encerrado
